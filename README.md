@@ -31,7 +31,17 @@
       </td>
       <td valign="top" width="50%">
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```text
+From: 20 April 2022 - To: 27 April 2022
+
+C++          18 hrs 1 min    ██████████████████▒░░░░░░   73.22 %
+Markdown     5 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+```
+
+<!--END_SECTION:waka-->
       </td>
     </tr>
   </tbody>
