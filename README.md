@@ -19,21 +19,15 @@
   <tbody>
     <tr>
       <td valign="top" width="480px" >
-        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
+        <img width="480px" src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
       </td>
       <td valign="top" width="480px" >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
+        <img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
       </td>
     </tr>
-    
-  </tbody>
-</table>
-
-<table width="960px" border="0">
-  <tbody>
     <tr>
       <td valign="top" width="480px">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
+        <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
       </td>
       <td valign="top" width="480px" >
         <!--START_SECTION:waka-->
@@ -52,3 +46,4 @@ Other        19 mins         ▒░░░░░░░░░░░░░░░░
     </tr>
   </tbody>
 </table>
+
