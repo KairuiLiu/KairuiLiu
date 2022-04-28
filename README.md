@@ -27,12 +27,15 @@
     </tr>
     <tr>
       <td valign="middle" width="50%">
-        <img src=""> 
+        <img
+          src="https://wakatime.com/share/@LiuKairui/07f82688-4018-40b1-9451-f452046f8ba0.svg"
+          alt="wakatime stat"
+        />
       </td>
       <td valign="middle" width="50%">
         <img
-          src="https://github.com/KairuiLiu/KairuiLiu/blob/master/images/stat.svg"
-          alt="Alternative Text"
+          src="https://wakatime.com/share/@LiuKairui/59c96a4b-0c4b-4216-90b4-e37373c7f7fd.svg"
+          alt="wakatime stat"
         />
       </td>
     </tr>
