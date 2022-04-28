@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=000000&vCenter=true&lines=Hey%2C+I'm+Kairui+Liu+%F0%9F%91%8B;Welcome+to+my+Github+homepage+%F0%9F%A4%97;%E5%98%BF%EF%BC%8C%E6%88%91%E6%98%AF%E5%88%98%E9%94%B4%E7%9D%BF%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=000000&vCenter=true&width=500&lines=Hey%2C+I'm+Kairui+Liu+%F0%9F%91%8B;A+passionate+frontend+developer+from+China+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Welcome+to+my+Github+homepage+%F0%9F%A4%97;%E5%98%BF%2C+%E6%88%91%E6%98%AF%E5%88%98%E9%94%B4%E7%9D%BF+%F0%9F%91%8B;%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5%F0%9F%A4%97)](https://git.io/typing-svg)
 
 **Something about me 👨‍💻**
 
-- 🍻 Junior at [SWU](https://www.swu.edu.cn), _BSc in Computer Science_
+- 🍻 I'm Junior at 🇨🇳 [SWU](https://www.swu.edu.cn)
+- 🎯 I’m currently working on [ThreeCraft](https://github.com/KairuiLiu/ThreeCraft)
+- 📝 I regularly write articles on [my blog](http://liukairui.me/)
+- 📄 Know about my experiences from [my CV](http://cv.liukairui.me/)
+
 
 **My Skils 🔭**
 
