@@ -15,4 +15,28 @@
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KairuiLiu&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![KairuiLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KairuiLiu)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu&hide_border=false">
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=KairuiLiu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <img src=""> 
+      </td>
+      <td valign="top" width="50%">
+        <img
+          src="https://github.com/KairuiLiu/KairuiLiu/blob/master/images/stat.svg"
+          alt="Alternative Text"
+        />
+      </td>
+    </tr>
+  </tbody>
+<table>
+
+![](./images/wollow.svg)
