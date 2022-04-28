@@ -15,12 +15,22 @@
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
 
-<div class="gd" style="display: grid;grid-template-columns: 1fr 1fr;gap: 16px 16px;">
-  <div class="gd-item" id="gd-1"><img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu"></div>
-  <div class="gd-item" id="gd-2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"></div>
-  <div class="gd-item" id="gd-3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"></div>
-  <div class="gd-item" id="gd-4">
-<!--START_SECTION:waka-->
+<table width="960px">
+  <tbody>
+    <tr>
+      <td valign="top" width="480px" >
+        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
+      </td>
+      <td valign="top" width="480px" >
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="480px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
+      </td>
+      <td valign="top" width="480px" >
+        <!--START_SECTION:waka-->
 
 ```text
 From: 20 April 2022 - To: 27 April 2022
@@ -32,5 +42,7 @@ Other        19 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  </div>
-</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
