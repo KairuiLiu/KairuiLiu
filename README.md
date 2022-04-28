@@ -22,12 +22,18 @@
         <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
       </td>
       <td valign="top" width="480px" >
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
       </td>
     </tr>
+    
+  </tbody>
+</table>
+
+<table width="960px" border="0">
+  <tbody>
     <tr>
       <td valign="top" width="480px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
       </td>
       <td valign="top" width="480px" >
         <!--START_SECTION:waka-->
