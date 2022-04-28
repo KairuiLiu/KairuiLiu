@@ -4,8 +4,8 @@
 
 - 🍻 I'm Junior at 🇨🇳 [SWU](https://www.swu.edu.cn)
 - 🎯 I’m currently working on [ThreeCraft](https://github.com/KairuiLiu/ThreeCraft)
-- 📝 I regularly write articles on [my blog](http://liukairui.me/)
-- 📄 Know about my experiences from [my CV](http://cv.liukairui.me/)
+- ✒️ I regularly write articles on [my blog](http://liukairui.me/)
+- 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
 
 
 **My Skils 🔭**
