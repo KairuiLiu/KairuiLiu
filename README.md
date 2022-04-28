@@ -27,19 +27,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KairuiLiu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> 
       </td>
     </tr>
-    <tr>
-      <td valign="middle" width="50%">
-        <img
-          src="https://wakatime.com/share/@LiuKairui/07f82688-4018-40b1-9451-f452046f8ba0.svg"
-          alt="wakatime stat"
-        />
-      </td>
-      <td valign="middle" width="50%">
-        <img
-          src="https://wakatime.com/share/@LiuKairui/59c96a4b-0c4b-4216-90b4-e37373c7f7fd.svg"
-          alt="wakatime stat"
-        />
-      </td>
+    <tr height="0">
     </tr>
     <tr>
       <td valign="middle"  colspan="2">
