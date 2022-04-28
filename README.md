@@ -19,6 +19,7 @@
 **Contact me 📇**
 
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
+
 <br/>
 
 **Stats 📊**
