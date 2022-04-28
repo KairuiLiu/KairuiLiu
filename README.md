@@ -15,17 +15,4 @@
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
 
-|<img width="480px" src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">|<img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> |
-|-|-|
-|<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> |</div></div>|
-
-<!--START_SECTION:waka-->
-```text
-From: 20 April 2022 - To: 27 April 2022
-
-C++          18 hrs 1 min    ██████████████████▒░░░░░░   73.22 %
-Markdown     5 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-```
-<!--END_SECTION:waka-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KairuiLiu&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![KairuiLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KairuiLiu)](https://github.com/anuraghazra/github-readme-stats)
