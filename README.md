@@ -18,18 +18,18 @@
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu&hide_border=false">
+      <td valign="middle" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu&hide_border=true">
       </td>
-      <td valign="top" width="50%">
+      <td valign="middle" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KairuiLiu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"> 
       </td>
     </tr>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="middle" width="50%">
         <img src=""> 
       </td>
-      <td valign="top" width="50%">
+      <td valign="middle" width="50%">
         <img
           src="https://github.com/KairuiLiu/KairuiLiu/blob/master/images/stat.svg"
           alt="Alternative Text"
