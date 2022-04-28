@@ -2,23 +2,17 @@
 
 **Something about me 👨‍💻**
 
-- 🍻 Junior at  [SWU](https://www.swu.edu.cn), _BSc in Computer Science_
-
-
+- 🍻 Junior at [SWU](https://www.swu.edu.cn), _BSc in Computer Science_
 
 **My Skils 🔭**
 
--   ![H5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![TS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)![Vue3](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
--   ![d3](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![G2](https://img.shields.io/badge/G2%20Plot-6c2fc3?style=flat-square&logo=antdesign&logoColor=white)![three](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
--   ![G2](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-
+- ![H5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![TS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![Vue3](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+- ![d3](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![G2](https://img.shields.io/badge/G2%20Plot-6c2fc3?style=flat-square&logo=antdesign&logoColor=white)![three](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+- ![G2](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Contact me 📞**
 
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
-
-
 
 <table width="960px">
 <tr>
@@ -29,7 +23,7 @@
 </td>
 <td valign="top" width="50%">
     
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu)
+    
 
 </td>
 <tr>
@@ -42,28 +36,21 @@
 </td>
 <td valign="top" width="50%">
     
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact)
+    
     
     </td>
 </tr>
 </table>
 
-
-
 <table>
-<tbody>
-   <tr>
-       <td  valign="top" width="50%">
-
-​       
-​     
-
-TEST
-</td>
-     <td  valign="top" width="50%">
-
-TEST
-</td>
-      </tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td valign="top" width="50%">
+        ![](https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu)
+      </td>
+      <td valign="top" width="50%">
+        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact)
+      </td>
+    </tr>
+  </tbody>
 </table>
