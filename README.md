@@ -41,6 +41,14 @@
         />
       </td>
     </tr>
+    <tr>
+      <td valign="middle"  colspan="2">
+        <img
+          src="./images/stat.svg"
+          alt="wakatime stat"
+        />
+      </td>
+    </tr>
   </tbody>
 <table>
 
