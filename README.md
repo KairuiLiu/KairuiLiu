@@ -14,42 +14,24 @@
 
 **「[My Website](https://liukairui.me/)」「[Zhihu](https://liukairui.me/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
-
-    [![KairuiLiu Girhub stat](https://github-readme-stats.vercel.app/api?username=KairuiLiu)]()
-
-</td>
-<td valign="top" width="50%">
-    
-    
-
-</td>
-<tr>
-</tr>
-<td valign="top" width="50%">
-
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-
-</td>
-<td valign="top" width="50%">
-    
-    
-    
-    </td>
-</tr>
-</table>
 
 <table>
   <tbody>
     <tr>
       <td valign="top" width="50%">
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu)
+        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
       </td>
       <td valign="top" width="50%">
-        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
+      </td>
+      <td valign="top" width="50%">
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
       </td>
     </tr>
   </tbody>
