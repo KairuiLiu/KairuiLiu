@@ -19,18 +19,30 @@
   <tbody>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu">
+        
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"> 
+        
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"> 
+        
       </td>
-      <td valign="top" width="50%">
-        <!--START_SECTION:waka-->
+      <td valign="top" width="50%" max-width="50%">
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div class="gd">
+  <div class="gd-item" id="gd-1"><img src="https://github-readme-stats.vercel.app/api?username=KairuiLiu"></div>
+  <div class="gd-item" id="gd-2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KairuiLiu"></div>
+  <div class="gd-item" id="gd-3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairuiLiu&layout=compact"></div>
+  <div class="gd-item" id="gd-4">
+<!--START_SECTION:waka-->
 
 ```text
 From: 20 April 2022 - To: 27 April 2022
@@ -42,7 +54,13 @@ Other        19 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-      </td>
-    </tr>
-  </tbody>
-</table>
+  </div>
+</div>
+
+<style>
+  .gd{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px 16px;
+  }
+</style>
