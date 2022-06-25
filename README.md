@@ -3,8 +3,8 @@
 
 **Something about me 🙋**
 
-- 🍻 I'm Junior at 🇨🇳 [SWU](http://swu.edu.cn/)
-- 🔭 I’m currently working on [ThreeCraft](https://github.com/KairuiLiu/ThreeCraft)
+- 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/)
+- 🔭 I’m currently working on [type-challenges-solutions](https://github.com/KairuiLiu/type-challenges-solutions)
 - ✒️ I regularly write articles on [my blog](http://liukairui.me/)
 - 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
 <br/>
@@ -18,7 +18,7 @@
 
 **Contact me 📇**
 
-**「[My Website](https://liukairui.me/)」「[Zhihu](https://www.zhihu.com/people/liu-kai-rui-18/)」「[Jike](https://okjk.co/16CFBT)」「[linkedin](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://space.bilibili.com/33238144)」「[me@liukairui.me](mailto:me@liukairui.me)」**
+**「[My Website](https://liukairui.me/)」「[Zhihu](https://www.zhihu.com/people/liu-kai-rui-18/)」「[Jike](https://okjk.co/16CFBT)」「[LinkedIn](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://space.bilibili.com/33238144)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
 <br/>
 
