@@ -3,7 +3,7 @@
 
 **Something about me 🙋**
 
-- 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/)
+- 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/) major in Data Science
 - 🔭 I’m currently working on [type-challenges-solutions](https://github.com/KairuiLiu/type-challenges-solutions)
 - ✒️ I regularly write articles on [my blog](http://liukairui.me/)
 - 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
