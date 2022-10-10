@@ -5,7 +5,7 @@
 
 - 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/)
 - 🔭 I’m currently working on [micro-vue](https://github.com/KairuiLiu/micro-vue)
-- 🎮️ I’m absorbed in playing The Legend of Zelda: Breath of the Wild
+- 🎮️ I’m absorbed in playing Unravel Two & inside
 - ✒️ I regularly write articles on [my blog](http://liukairui.me/)
 - 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
 <br/>
