@@ -5,7 +5,7 @@
 
 - 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/)
 - 🔭 I’m currently working on [micro-vue](https://github.com/KairuiLiu/micro-vue)
-- 🎮️ I’m absorbed in playing Unravel Two & Inside
+- 🎮️ I’m absorbed in playing Unravel Two & Undertale
 - ✒️ I regularly write articles on [my blog](http://liukairui.me/)
 - 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
 <br/>
