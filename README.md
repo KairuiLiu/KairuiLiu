@@ -4,9 +4,9 @@
 **Something about me 🙋**
 
 - 🍻 I'm postgraduate at 🇳🇿 [UoA](https://www.auckland.ac.nz/)
-- 🔭 I’m currently working on [micro-vue](https://github.com/KairuiLiu/micro-vue)
-- 🎮️ I’m absorbed in playing Unravel Two & Undertale
-- ✒️ I regularly write articles on [my blog](http://liukairui.me/)
+- 🔭 I’m currently working on [RahRahOJ](https://github.com/KairuiLiu/RahRahOJ-FrontEnd)
+- 🎮️ I’m absorbed in playing Splatoon 3 & Hollow Knight
+- ✒️ I regularly write articles on [my blog](http://blog.liukairui.me/)
 - 📃 Know about my experiences from [my CV](http://cv.liukairui.me/)
 <br/>
 
