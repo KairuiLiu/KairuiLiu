@@ -19,7 +19,7 @@
 
 **Contact me 📇**
 
-**「[My Website](https://liukairui.me/)」「[Zhihu](https://www.zhihu.com/people/liu-kai-rui-18/)」「[Jike](https://okjk.co/16CFBT)」「[LinkedIn](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/)」「[Bilibili](https://space.bilibili.com/33238144)」「[me@liukairui.me](mailto:me@liukairui.me)」**
+**「[My Website](https://liukairui.me/)」「[Zhihu](https://www.zhihu.com/people/liu-kai-rui-18/)」「[Jike](https://okjk.co/16CFBT)」「[LinkedIn]([https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98-9b3a80235/](https://www.linkedin.com/in/%E9%94%B4%E7%9D%BF-%E5%88%98))」「[Bilibili](https://space.bilibili.com/33238144)」「[me@liukairui.me](mailto:me@liukairui.me)」**
 
 <br/>
 
